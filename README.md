@@ -184,7 +184,7 @@ Go to `/index.html` and fill your information, there are 6 sections:
           <a href="./" class="header__link"> Accueil </a>
         </li>
         <li class="header__link-wrapper">
-          <a href="./#about" class="header__link">À Propos </a>
+          <a href="./#about" class="header__link">Qui suis-je? </a>
         </li>
         <li class="header__link-wrapper">
           <a href="./#projects" class="header__link"> Projects </a>
